@@ -20,5 +20,5 @@ flutter:
   uses-material-design: true
 
   # Your assets are registered here:
-  assets:
-    - assets/images/
+assets:
+  - assets/images/
